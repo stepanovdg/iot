@@ -24,7 +24,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>9</java.version>
     <spring-cloud.version>Finchley.M5</spring-cloud.version>
-    <vaadin.version>8.1.0</vaadin.version>
+    <vaadin.version>8.14.1</vaadin.version>
   </properties>
 
   <dependencies>
